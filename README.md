@@ -7,7 +7,7 @@ https://www.reddit.com/r/hackintosh/comments/12o79rc/hp_elitedesk_g1_800_twr_nee
 # WARNING: This EFI is not properly made or maintained! 
 ## v1.0 Issue
 
-| System Information |
+| About this MaC |
 |:-----------:|
 |![](/image.png)|
 ## Specs
