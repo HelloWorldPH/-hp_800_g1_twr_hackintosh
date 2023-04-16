@@ -1,4 +1,4 @@
-## HP EliteDesk 800 G1 TWR Hackintosh - OpenCore 0.9.1 v1.0.0
+# HP EliteDesk 800 G1 TWR Hackintosh - OpenCore 0.9.1 v1.0.0
 The HP EliteDesk 800 G1 TWR is a desktop PC that can be used for hackintoshing with OpenCore 0.9.1. This guide is based on the OpenCore Vanilla Desktop Guide for Haswell, which you should read carefully to understand the process. However, my goal is to help you avoid errors you might encounter during the installation process.
 
 ## Specs
@@ -28,7 +28,7 @@ Use the default desktop platform-id (0x0d220003) for iGPU or dGPU platform-id fo
 ## BIOS setup 
 Upgrade to the latest BIOS version and make sure VT-d is disabled. Set SATA emulation to AHCI if not already set.
 
-# #USB port mapping
+## USB port mapping
 You used USBToolBox.kext and UTBDefault.kext for USB port mapping. These should work on your PC of this model.
 
 ## Audio
@@ -40,5 +40,5 @@ Sleep is not working. Please check the config.plist and power management setting
 ## Video Graphics (iGPU)
 The iGPU Intel Graphics 4600 is not working. You can use an AMD RX 570 GPU instead to improve graphics performance. However, if you want to try fixing the iGPU, you can experiment with different values for the ig-platform-id and device-id in the DeviceProperties section of the config.plist.
 
-## ENJOY! ##
+# ENJOY! 
 The HP EliteDesk 800 G1 TWR is a good option for a hackintosh desktop, and with the right hardware upgrades, it can be a powerful machine.
