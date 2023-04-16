@@ -47,3 +47,9 @@ The iGPU Intel Graphics 4600 is not working. You can use an AMD RX 570 GPU inste
 
 # ENJOY! 
 The HP EliteDesk 800 G1 TWR is a good option for a hackintosh desktop, and with the right hardware upgrades, it can be a powerful machine.
+
+## v1.0 Issue
+
+| Function list |
+|:-----------:|
+|![](/image.png)|
