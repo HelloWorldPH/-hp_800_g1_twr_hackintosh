@@ -5,7 +5,11 @@ The HP EliteDesk 800 G1 TWR is a desktop PC that can be used for hackintoshing w
 https://www.reddit.com/r/hackintosh/comments/12o79rc/hp_elitedesk_g1_800_twr_need_help_with_dortania/?utm_source=share&utm_medium=web2x&context=3
 
 # WARNING: This EFI is not properly made or maintained! 
+## v1.0 Issue
 
+| Function list |
+|:-----------:|
+|![](/image.png)|
 ## Specs
 * Intel Core i5-4570 CPU
 * Intel Graphics 4600 GPU (iGPU)
@@ -48,8 +52,4 @@ The iGPU Intel Graphics 4600 is not working. You can use an AMD RX 570 GPU inste
 # ENJOY! 
 The HP EliteDesk 800 G1 TWR is a good option for a hackintosh desktop, and with the right hardware upgrades, it can be a powerful machine.
 
-## v1.0 Issue
 
-| Function list |
-|:-----------:|
-|![](/image.png)|
